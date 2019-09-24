@@ -1,4 +1,4 @@
-import { html, PolymerElement } from "https://unpkg.com/@polymer/polymer@latest/polymer-element.js?module";
+import { html, PolymerElement } from "@polymer/polymer/polymer-element.js";
 //import { mixinBehaviors } from '@polymer/polymer/lib/legacy/class';
 //import { PaperInputBehavior } from '@polymer/paper-input/paper-input-behavior';
 //import { IronFormElementBehavior } from '@polymer/iron-form-element-behavior/iron-form-element-behavior';
