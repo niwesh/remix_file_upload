@@ -1,6 +1,6 @@
 {
-  "name": "remix-file-upload",
-  "version": "3.1.1",
+  "name": "@nivesh_97/remix-file-upload",
+  "version": "3.1.2",
   "description": "Paper input file ",
   "repository": {
     "type": "git",
