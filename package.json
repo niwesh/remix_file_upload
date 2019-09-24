@@ -1,8 +1,7 @@
 {
-  "name": "@fluidnext-polymer/paper-input-file",
-  "version": "3.1.0",
+  "name": "remix-file-upload",
+  "version": "3.1.1",
   "description": "Paper input file ",
-  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fluidnext/paper-input-file.git"
@@ -12,10 +11,7 @@
     "web component",
     "html5"
   ],
-  "author": {
-    "name": "Antonio Visalli",
-    "url": "https://github.com/visa4fluid"
-  },
+  "author": "Antonio Visalli (https://github.com/visa4fluid)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/fluidnext/paper-input-file/issues"
@@ -46,13 +42,13 @@
     "@polymer/iron-icon": "^3.0.1"
   },
   "contributors": [
-    {
-      "name": "Emanuele Dessi",
-      "url": "https://github.com/EmanueleDessi"
-    },
-    {
-      "name": "Simone Spada",
-      "url": "https://github.com/SimoneSpada"
-    }
-  ]
+    "Emanuele Dessi (https://github.com/EmanueleDessi)",
+    "Simone Spada (https://github.com/SimoneSpada)"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
 }
